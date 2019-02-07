@@ -1,0 +1,32 @@
+//
+//  PrefixHeader.pch
+//  SoccerHoneypot
+//
+//  Created by Wii on 16/6/20.
+//  Copyright © 2016年 Wii. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#pragma mark - KIT
+
+#import <AFNetworking.h>
+#import <YYModel.h>
+#import <UIImageView+WebCache.h>
+#import <MJRefresh.h>
+#import "WiiNetWorkTool.h"
+#import "UIView+Size.h"
+
+#pragma mark - Macro
+#import "MacroPublicHeader.h"
+
+
+
+#if DEBUG
+# define DLog(fmt, ...) NSLog((@"[文件名:%s]\n" "[函数名:%s]\n" "[行号:%d] \n" fmt), __FILE__, __FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+# define DLog(...);
+#endif
+
+#endif /* PrefixHeader_pch */
