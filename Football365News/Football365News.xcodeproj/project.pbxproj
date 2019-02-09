@@ -1246,7 +1246,7 @@
 				TargetAttributes = {
 					37BEF66F1D114EEA0013E2AA = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = A7YM93Q8P3;
+						DevelopmentTeam = U9LHZ9A36S;
 					};
 					37BEF6881D114EEA0013E2AA = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -1673,7 +1673,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = A7YM93Q8P3;
+				DEVELOPMENT_TEAM = U9LHZ9A36S;
 				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/Football365News/PrefixHeader.pch";
 				INFOPLIST_FILE = Football365News/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -1714,7 +1714,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = A7YM93Q8P3;
+				DEVELOPMENT_TEAM = U9LHZ9A36S;
 				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/Football365News/PrefixHeader.pch";
 				INFOPLIST_FILE = Football365News/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
